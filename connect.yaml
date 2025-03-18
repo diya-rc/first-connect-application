@@ -75,7 +75,7 @@ deployAs:
         - key: CTP_SCOPE
           description: commercetools Composable Commerce client scope
           required: true
-  - name: custom-message
+  - name: merchant-center-custom-application
     applicationType: merchant-center-custom-application
     configuration:
       standardConfiguration:
