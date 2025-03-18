@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'cm8ee7im7003fqw01wnie8jwh',
-      url: 'https://dummy-link.com',
+      url: 'https://mc.us-central1.gcp.commercetools.com/',
     },
   },
   oAuthScopes: {
