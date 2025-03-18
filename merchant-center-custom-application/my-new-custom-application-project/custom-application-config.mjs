@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'bonelli-3',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cm8ee7im7003fqw01wnie8jwh',
+      url: 'https://dummy-link.com',
     },
   },
   oAuthScopes: {
