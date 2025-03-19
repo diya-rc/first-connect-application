@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'bonelli-3',
     },
     production: {
-      applicationId: 'cm8ee7im7003fqw01wnie8jwh',
-      url: 'https://mc.us-central1.gcp.commercetools.com/',
+      applicationId: "${env:CUSTOM_APPLICATION_ID}",
+			url: "${env:APPLICATION_URL}",
     },
   },
   oAuthScopes: {
