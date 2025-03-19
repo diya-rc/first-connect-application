@@ -102,5 +102,9 @@
     "headers-polyfill": "3.2.5",
     "nwsapi": "2.2.7"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "overrides": {
+    "path-to-regexp": "3.3.0",
+    "esbuild": "^0.24.0"
+  }
 }
