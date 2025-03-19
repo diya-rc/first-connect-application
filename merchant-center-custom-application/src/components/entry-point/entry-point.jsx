@@ -18,7 +18,6 @@ setupGlobalErrorListener();
 
 const EntryPoint = () => (
   <ApplicationShell
-    enableReactStrictMode
     environment={window.app}
     applicationMessages={loadMessages}
   >
